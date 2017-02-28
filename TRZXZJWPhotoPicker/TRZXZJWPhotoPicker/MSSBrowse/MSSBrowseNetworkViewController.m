@@ -10,6 +10,7 @@
 #import "SDImageCache.h"
 #import "UIView+MSSLayout.h"
 #import "UIImage+MSSScale.h"
+#import "UIImageView+WebCache.h"
 
 @implementation MSSBrowseNetworkViewController
 
