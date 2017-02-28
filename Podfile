@@ -9,6 +9,9 @@ def pods
 
     pod 'SDWebImage'
     pod 'FXBlurView'
+  #  pod 'AJPhotoPicker'
+
+
 
 end
 
