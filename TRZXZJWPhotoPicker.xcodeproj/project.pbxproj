@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B73299AA1E65522F005D1D65 /* mss_browseLoading@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B732998F1E65522F005D1D65 /* mss_browseLoading@2x.png */; };
+		B73299AB1E65522F005D1D65 /* mss_browseLoading@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B73299901E65522F005D1D65 /* mss_browseLoading@3x.png */; };
+		B73299AC1E65522F005D1D65 /* MSSBrowseActionSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = B73299921E65522F005D1D65 /* MSSBrowseActionSheet.m */; };
+		B73299AD1E65522F005D1D65 /* MSSBrowseActionSheetCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B73299941E65522F005D1D65 /* MSSBrowseActionSheetCell.m */; };
+		B73299AE1E65522F005D1D65 /* MSSBrowseBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B73299961E65522F005D1D65 /* MSSBrowseBaseViewController.m */; };
+		B73299AF1E65522F005D1D65 /* MSSBrowseCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B73299981E65522F005D1D65 /* MSSBrowseCollectionViewCell.m */; };
+		B73299B01E65522F005D1D65 /* MSSBrowseLoadingImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = B732999B1E65522F005D1D65 /* MSSBrowseLoadingImageView.m */; };
+		B73299B11E65522F005D1D65 /* MSSBrowseLocalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B732999D1E65522F005D1D65 /* MSSBrowseLocalViewController.m */; };
+		B73299B21E65522F005D1D65 /* MSSBrowseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = B732999F1E65522F005D1D65 /* MSSBrowseModel.m */; };
+		B73299B31E65522F005D1D65 /* MSSBrowseNetworkViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B73299A11E65522F005D1D65 /* MSSBrowseNetworkViewController.m */; };
+		B73299B41E65522F005D1D65 /* MSSBrowseRemindView.m in Sources */ = {isa = PBXBuildFile; fileRef = B73299A31E65522F005D1D65 /* MSSBrowseRemindView.m */; };
+		B73299B51E65522F005D1D65 /* MSSBrowseZoomScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = B73299A51E65522F005D1D65 /* MSSBrowseZoomScrollView.m */; };
+		B73299B61E65522F005D1D65 /* UIImage+MSSScale.m in Sources */ = {isa = PBXBuildFile; fileRef = B73299A71E65522F005D1D65 /* UIImage+MSSScale.m */; };
+		B73299B71E65522F005D1D65 /* UIView+MSSLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = B73299A91E65522F005D1D65 /* UIView+MSSLayout.m */; };
 		B7F240181E654A920096E3FD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F240171E654A920096E3FD /* main.m */; };
 		B7F2401B1E654A920096E3FD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F2401A1E654A920096E3FD /* AppDelegate.m */; };
 		B7F2401E1E654A920096E3FD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F2401D1E654A920096E3FD /* ViewController.m */; };
@@ -50,6 +64,33 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B732998F1E65522F005D1D65 /* mss_browseLoading@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mss_browseLoading@2x.png"; sourceTree = "<group>"; };
+		B73299901E65522F005D1D65 /* mss_browseLoading@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mss_browseLoading@3x.png"; sourceTree = "<group>"; };
+		B73299911E65522F005D1D65 /* MSSBrowseActionSheet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseActionSheet.h; sourceTree = "<group>"; };
+		B73299921E65522F005D1D65 /* MSSBrowseActionSheet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseActionSheet.m; sourceTree = "<group>"; };
+		B73299931E65522F005D1D65 /* MSSBrowseActionSheetCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseActionSheetCell.h; sourceTree = "<group>"; };
+		B73299941E65522F005D1D65 /* MSSBrowseActionSheetCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseActionSheetCell.m; sourceTree = "<group>"; };
+		B73299951E65522F005D1D65 /* MSSBrowseBaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseBaseViewController.h; sourceTree = "<group>"; };
+		B73299961E65522F005D1D65 /* MSSBrowseBaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseBaseViewController.m; sourceTree = "<group>"; };
+		B73299971E65522F005D1D65 /* MSSBrowseCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseCollectionViewCell.h; sourceTree = "<group>"; };
+		B73299981E65522F005D1D65 /* MSSBrowseCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseCollectionViewCell.m; sourceTree = "<group>"; };
+		B73299991E65522F005D1D65 /* MSSBrowseDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseDefine.h; sourceTree = "<group>"; };
+		B732999A1E65522F005D1D65 /* MSSBrowseLoadingImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseLoadingImageView.h; sourceTree = "<group>"; };
+		B732999B1E65522F005D1D65 /* MSSBrowseLoadingImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseLoadingImageView.m; sourceTree = "<group>"; };
+		B732999C1E65522F005D1D65 /* MSSBrowseLocalViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseLocalViewController.h; sourceTree = "<group>"; };
+		B732999D1E65522F005D1D65 /* MSSBrowseLocalViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseLocalViewController.m; sourceTree = "<group>"; };
+		B732999E1E65522F005D1D65 /* MSSBrowseModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseModel.h; sourceTree = "<group>"; };
+		B732999F1E65522F005D1D65 /* MSSBrowseModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseModel.m; sourceTree = "<group>"; };
+		B73299A01E65522F005D1D65 /* MSSBrowseNetworkViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseNetworkViewController.h; sourceTree = "<group>"; };
+		B73299A11E65522F005D1D65 /* MSSBrowseNetworkViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseNetworkViewController.m; sourceTree = "<group>"; };
+		B73299A21E65522F005D1D65 /* MSSBrowseRemindView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseRemindView.h; sourceTree = "<group>"; };
+		B73299A31E65522F005D1D65 /* MSSBrowseRemindView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseRemindView.m; sourceTree = "<group>"; };
+		B73299A41E65522F005D1D65 /* MSSBrowseZoomScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseZoomScrollView.h; sourceTree = "<group>"; };
+		B73299A51E65522F005D1D65 /* MSSBrowseZoomScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseZoomScrollView.m; sourceTree = "<group>"; };
+		B73299A61E65522F005D1D65 /* UIImage+MSSScale.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+MSSScale.h"; sourceTree = "<group>"; };
+		B73299A71E65522F005D1D65 /* UIImage+MSSScale.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+MSSScale.m"; sourceTree = "<group>"; };
+		B73299A81E65522F005D1D65 /* UIView+MSSLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+MSSLayout.h"; sourceTree = "<group>"; };
+		B73299A91E65522F005D1D65 /* UIView+MSSLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+MSSLayout.m"; sourceTree = "<group>"; };
 		B7F240131E654A920096E3FD /* TRZXZJWPhotoPicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TRZXZJWPhotoPicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7F240171E654A920096E3FD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B7F240191E654A920096E3FD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -119,6 +160,40 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B732998E1E65522F005D1D65 /* MSSBrowse */ = {
+			isa = PBXGroup;
+			children = (
+				B732998F1E65522F005D1D65 /* mss_browseLoading@2x.png */,
+				B73299901E65522F005D1D65 /* mss_browseLoading@3x.png */,
+				B73299911E65522F005D1D65 /* MSSBrowseActionSheet.h */,
+				B73299921E65522F005D1D65 /* MSSBrowseActionSheet.m */,
+				B73299931E65522F005D1D65 /* MSSBrowseActionSheetCell.h */,
+				B73299941E65522F005D1D65 /* MSSBrowseActionSheetCell.m */,
+				B73299951E65522F005D1D65 /* MSSBrowseBaseViewController.h */,
+				B73299961E65522F005D1D65 /* MSSBrowseBaseViewController.m */,
+				B73299971E65522F005D1D65 /* MSSBrowseCollectionViewCell.h */,
+				B73299981E65522F005D1D65 /* MSSBrowseCollectionViewCell.m */,
+				B73299991E65522F005D1D65 /* MSSBrowseDefine.h */,
+				B732999A1E65522F005D1D65 /* MSSBrowseLoadingImageView.h */,
+				B732999B1E65522F005D1D65 /* MSSBrowseLoadingImageView.m */,
+				B732999C1E65522F005D1D65 /* MSSBrowseLocalViewController.h */,
+				B732999D1E65522F005D1D65 /* MSSBrowseLocalViewController.m */,
+				B732999E1E65522F005D1D65 /* MSSBrowseModel.h */,
+				B732999F1E65522F005D1D65 /* MSSBrowseModel.m */,
+				B73299A01E65522F005D1D65 /* MSSBrowseNetworkViewController.h */,
+				B73299A11E65522F005D1D65 /* MSSBrowseNetworkViewController.m */,
+				B73299A21E65522F005D1D65 /* MSSBrowseRemindView.h */,
+				B73299A31E65522F005D1D65 /* MSSBrowseRemindView.m */,
+				B73299A41E65522F005D1D65 /* MSSBrowseZoomScrollView.h */,
+				B73299A51E65522F005D1D65 /* MSSBrowseZoomScrollView.m */,
+				B73299A61E65522F005D1D65 /* UIImage+MSSScale.h */,
+				B73299A71E65522F005D1D65 /* UIImage+MSSScale.m */,
+				B73299A81E65522F005D1D65 /* UIView+MSSLayout.h */,
+				B73299A91E65522F005D1D65 /* UIView+MSSLayout.m */,
+			);
+			path = MSSBrowse;
+			sourceTree = "<group>";
+		};
 		B7F2400A1E654A910096E3FD = {
 			isa = PBXGroup;
 			children = (
@@ -185,6 +260,7 @@
 		B7F240771E654CA80096E3FD /* TRZXZJWPhotoPicker */ = {
 			isa = PBXGroup;
 			children = (
+				B732998E1E65522F005D1D65 /* MSSBrowse */,
 				B7F2409B1E654CD40096E3FD /* images */,
 				B7F240781E654CA80096E3FD /* AJGradientView.h */,
 				B7F240791E654CA80096E3FD /* AJGradientView.m */,
@@ -347,11 +423,13 @@
 			files = (
 				B7F240A21E654CD40096E3FD /* BoAssetsPickerChecked@2x.png in Resources */,
 				B7F240A11E654CD40096E3FD /* BoAssetsCamera@2x.png in Resources */,
+				B73299AB1E65522F005D1D65 /* mss_browseLoading@3x.png in Resources */,
 				B7F240261E654A920096E3FD /* LaunchScreen.storyboard in Resources */,
 				B7F240A31E654CD40096E3FD /* BoSelectGroup_tip@2x.png in Resources */,
 				B7F240A01E654CD40096E3FD /* AssetsPickerVideo@2x.png in Resources */,
 				B7F240231E654A920096E3FD /* Assets.xcassets in Resources */,
 				B7F240211E654A920096E3FD /* Main.storyboard in Resources */,
+				B73299AA1E65522F005D1D65 /* mss_browseLoading@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -376,18 +454,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B73299B71E65522F005D1D65 /* UIView+MSSLayout.m in Sources */,
 				B7F2401E1E654A920096E3FD /* ViewController.m in Sources */,
+				B73299AD1E65522F005D1D65 /* MSSBrowseActionSheetCell.m in Sources */,
+				B73299B01E65522F005D1D65 /* MSSBrowseLoadingImageView.m in Sources */,
+				B73299AF1E65522F005D1D65 /* MSSBrowseCollectionViewCell.m in Sources */,
 				B7F2409A1E654CA80096E3FD /* AJTapDetectingView.m in Sources */,
+				B73299B61E65522F005D1D65 /* UIImage+MSSScale.m in Sources */,
 				B7F240951E654CA80096E3FD /* AJPhotoListView.m in Sources */,
 				B7F2401B1E654A920096E3FD /* AppDelegate.m in Sources */,
 				B7F240931E654CA80096E3FD /* AJPhotoListCell.m in Sources */,
+				B73299B51E65522F005D1D65 /* MSSBrowseZoomScrollView.m in Sources */,
+				B73299B11E65522F005D1D65 /* MSSBrowseLocalViewController.m in Sources */,
 				B7F240981E654CA80096E3FD /* AJPhotoTapDetectingImageView.m in Sources */,
+				B73299B41E65522F005D1D65 /* MSSBrowseRemindView.m in Sources */,
 				B7F240921E654CA80096E3FD /* AJPhotoGroupView.m in Sources */,
+				B73299AC1E65522F005D1D65 /* MSSBrowseActionSheet.m in Sources */,
+				B73299B31E65522F005D1D65 /* MSSBrowseNetworkViewController.m in Sources */,
 				B7F240941E654CA80096E3FD /* AJPhotoListCellTapView.m in Sources */,
+				B73299B21E65522F005D1D65 /* MSSBrowseModel.m in Sources */,
 				B7F240961E654CA80096E3FD /* AJPhotoPickerViewController.m in Sources */,
 				B7F240971E654CA80096E3FD /* AJPhotoBrowserViewController.m in Sources */,
 				B7F240181E654A920096E3FD /* main.m in Sources */,
 				B7F240901E654CA80096E3FD /* AJGradientView.m in Sources */,
+				B73299AE1E65522F005D1D65 /* MSSBrowseBaseViewController.m in Sources */,
 				B7F240911E654CA80096E3FD /* AJPhotoGroupCell.m in Sources */,
 				B7F240991E654CA80096E3FD /* AJPhotoZoomingScrollView.m in Sources */,
 			);
@@ -621,6 +711,7 @@
 				B7F240421E654A920096E3FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B7F240431E654A920096E3FD /* Build configuration list for PBXNativeTarget "TRZXZJWPhotoPickerTests" */ = {
 			isa = XCConfigurationList;
@@ -629,6 +720,7 @@
 				B7F240451E654A920096E3FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B7F240461E654A920096E3FD /* Build configuration list for PBXNativeTarget "TRZXZJWPhotoPickerUITests" */ = {
 			isa = XCConfigurationList;
@@ -637,6 +729,7 @@
 				B7F240481E654A920096E3FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
