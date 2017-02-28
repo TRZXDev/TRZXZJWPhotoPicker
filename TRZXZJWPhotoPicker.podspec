@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "TRZXZJWPhotoPicker"
-    s.version      = "0.0.2"
+    s.version      = "0.0.1"
     s.ios.deployment_target = '8.0'
     s.summary      = "TRZXZJWPhotoPicker"
     s.homepage     = "https://github.com/TRZXDev/TRZXZJWPhotoPicker"
