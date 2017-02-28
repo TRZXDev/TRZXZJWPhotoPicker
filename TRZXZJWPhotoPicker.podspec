@@ -10,6 +10,8 @@ Pod::Spec.new do |s|
     s.source_files  = "TRZXZJWPhotoPicker/TRZXZJWPhotoPicker/**/*.{h,m}"
     s.resources    = 'TRZXZJWPhotoPicker/TRZXZJWPhotoPicker/**/*.{xib,png}'
 
+    s.dependency "FXBlurView"
+    s.dependency "SDWebImage"
 
     s.requires_arc = true
 end

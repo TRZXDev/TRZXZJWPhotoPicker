@@ -7,7 +7,8 @@ use_frameworks!
 
 def pods
 
- #   pod 'SDWebImage'
+    pod 'SDWebImage'
+    pod 'FXBlurView'
 
 end
 

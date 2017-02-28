@@ -1,3 +1,17 @@
-PODFILE CHECKSUM: f9a6599904dc04b749e7281d448f4ea6e34a4e1d
+PODS:
+  - FXBlurView (1.6.4)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+
+DEPENDENCIES:
+  - FXBlurView
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  FXBlurView: db786c2561cb49a09ae98407f52460096ab8a44f
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+
+PODFILE CHECKSUM: 1cb162eaee66fa1a7c6991e8dd6189a7f044a419
 
 COCOAPODS: 1.2.0
