@@ -15,18 +15,21 @@
 		B7F240261E654A920096E3FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7F240241E654A920096E3FD /* LaunchScreen.storyboard */; };
 		B7F240311E654A920096E3FD /* TRZXZJWPhotoPickerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F240301E654A920096E3FD /* TRZXZJWPhotoPickerTests.m */; };
 		B7F2403C1E654A920096E3FD /* TRZXZJWPhotoPickerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F2403B1E654A920096E3FD /* TRZXZJWPhotoPickerUITests.m */; };
-		B7F240631E654AB60096E3FD /* AJGradientView.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F2404B1E654AB50096E3FD /* AJGradientView.m */; };
-		B7F240641E654AB60096E3FD /* AJPhotoGroupCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F2404D1E654AB50096E3FD /* AJPhotoGroupCell.m */; };
-		B7F240651E654AB60096E3FD /* AJPhotoGroupView.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F2404F1E654AB60096E3FD /* AJPhotoGroupView.m */; };
-		B7F240661E654AB60096E3FD /* AJPhotoListCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F240511E654AB60096E3FD /* AJPhotoListCell.m */; };
-		B7F240671E654AB60096E3FD /* AJPhotoListCellTapView.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F240531E654AB60096E3FD /* AJPhotoListCellTapView.m */; };
-		B7F240681E654AB60096E3FD /* AJPhotoListView.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F240551E654AB60096E3FD /* AJPhotoListView.m */; };
-		B7F240691E654AB60096E3FD /* AJPhotoPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F240571E654AB60096E3FD /* AJPhotoPickerViewController.m */; };
-		B7F2406A1E654AB60096E3FD /* BoPhotoPicker.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B7F240581E654AB60096E3FD /* BoPhotoPicker.bundle */; };
-		B7F2406B1E654AB60096E3FD /* AJPhotoBrowserViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F2405C1E654AB60096E3FD /* AJPhotoBrowserViewController.m */; };
-		B7F2406C1E654AB60096E3FD /* AJPhotoTapDetectingImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F2405E1E654AB60096E3FD /* AJPhotoTapDetectingImageView.m */; };
-		B7F2406D1E654AB60096E3FD /* AJPhotoZoomingScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F240601E654AB60096E3FD /* AJPhotoZoomingScrollView.m */; };
-		B7F2406E1E654AB60096E3FD /* AJTapDetectingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F240621E654AB60096E3FD /* AJTapDetectingView.m */; };
+		B7F240901E654CA80096E3FD /* AJGradientView.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F240791E654CA80096E3FD /* AJGradientView.m */; };
+		B7F240911E654CA80096E3FD /* AJPhotoGroupCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F2407B1E654CA80096E3FD /* AJPhotoGroupCell.m */; };
+		B7F240921E654CA80096E3FD /* AJPhotoGroupView.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F2407D1E654CA80096E3FD /* AJPhotoGroupView.m */; };
+		B7F240931E654CA80096E3FD /* AJPhotoListCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F2407F1E654CA80096E3FD /* AJPhotoListCell.m */; };
+		B7F240941E654CA80096E3FD /* AJPhotoListCellTapView.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F240811E654CA80096E3FD /* AJPhotoListCellTapView.m */; };
+		B7F240951E654CA80096E3FD /* AJPhotoListView.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F240831E654CA80096E3FD /* AJPhotoListView.m */; };
+		B7F240961E654CA80096E3FD /* AJPhotoPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F240851E654CA80096E3FD /* AJPhotoPickerViewController.m */; };
+		B7F240971E654CA80096E3FD /* AJPhotoBrowserViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F240891E654CA80096E3FD /* AJPhotoBrowserViewController.m */; };
+		B7F240981E654CA80096E3FD /* AJPhotoTapDetectingImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F2408B1E654CA80096E3FD /* AJPhotoTapDetectingImageView.m */; };
+		B7F240991E654CA80096E3FD /* AJPhotoZoomingScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F2408D1E654CA80096E3FD /* AJPhotoZoomingScrollView.m */; };
+		B7F2409A1E654CA80096E3FD /* AJTapDetectingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B7F2408F1E654CA80096E3FD /* AJTapDetectingView.m */; };
+		B7F240A01E654CD40096E3FD /* AssetsPickerVideo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7F2409C1E654CD40096E3FD /* AssetsPickerVideo@2x.png */; };
+		B7F240A11E654CD40096E3FD /* BoAssetsCamera@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7F2409D1E654CD40096E3FD /* BoAssetsCamera@2x.png */; };
+		B7F240A21E654CD40096E3FD /* BoAssetsPickerChecked@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7F2409E1E654CD40096E3FD /* BoAssetsPickerChecked@2x.png */; };
+		B7F240A31E654CD40096E3FD /* BoSelectGroup_tip@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7F2409F1E654CD40096E3FD /* BoSelectGroup_tip@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,29 +66,32 @@
 		B7F240371E654A920096E3FD /* TRZXZJWPhotoPickerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TRZXZJWPhotoPickerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7F2403B1E654A920096E3FD /* TRZXZJWPhotoPickerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TRZXZJWPhotoPickerUITests.m; sourceTree = "<group>"; };
 		B7F2403D1E654A920096E3FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B7F2404A1E654AB50096E3FD /* AJGradientView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJGradientView.h; sourceTree = "<group>"; };
-		B7F2404B1E654AB50096E3FD /* AJGradientView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJGradientView.m; sourceTree = "<group>"; };
-		B7F2404C1E654AB50096E3FD /* AJPhotoGroupCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoGroupCell.h; sourceTree = "<group>"; };
-		B7F2404D1E654AB50096E3FD /* AJPhotoGroupCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoGroupCell.m; sourceTree = "<group>"; };
-		B7F2404E1E654AB50096E3FD /* AJPhotoGroupView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoGroupView.h; sourceTree = "<group>"; };
-		B7F2404F1E654AB60096E3FD /* AJPhotoGroupView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoGroupView.m; sourceTree = "<group>"; };
-		B7F240501E654AB60096E3FD /* AJPhotoListCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoListCell.h; sourceTree = "<group>"; };
-		B7F240511E654AB60096E3FD /* AJPhotoListCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoListCell.m; sourceTree = "<group>"; };
-		B7F240521E654AB60096E3FD /* AJPhotoListCellTapView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoListCellTapView.h; sourceTree = "<group>"; };
-		B7F240531E654AB60096E3FD /* AJPhotoListCellTapView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoListCellTapView.m; sourceTree = "<group>"; };
-		B7F240541E654AB60096E3FD /* AJPhotoListView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoListView.h; sourceTree = "<group>"; };
-		B7F240551E654AB60096E3FD /* AJPhotoListView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoListView.m; sourceTree = "<group>"; };
-		B7F240561E654AB60096E3FD /* AJPhotoPickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoPickerViewController.h; sourceTree = "<group>"; };
-		B7F240571E654AB60096E3FD /* AJPhotoPickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoPickerViewController.m; sourceTree = "<group>"; };
-		B7F240581E654AB60096E3FD /* BoPhotoPicker.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = BoPhotoPicker.bundle; sourceTree = "<group>"; };
-		B7F2405B1E654AB60096E3FD /* AJPhotoBrowserViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoBrowserViewController.h; sourceTree = "<group>"; };
-		B7F2405C1E654AB60096E3FD /* AJPhotoBrowserViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoBrowserViewController.m; sourceTree = "<group>"; };
-		B7F2405D1E654AB60096E3FD /* AJPhotoTapDetectingImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoTapDetectingImageView.h; sourceTree = "<group>"; };
-		B7F2405E1E654AB60096E3FD /* AJPhotoTapDetectingImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoTapDetectingImageView.m; sourceTree = "<group>"; };
-		B7F2405F1E654AB60096E3FD /* AJPhotoZoomingScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoZoomingScrollView.h; sourceTree = "<group>"; };
-		B7F240601E654AB60096E3FD /* AJPhotoZoomingScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoZoomingScrollView.m; sourceTree = "<group>"; };
-		B7F240611E654AB60096E3FD /* AJTapDetectingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJTapDetectingView.h; sourceTree = "<group>"; };
-		B7F240621E654AB60096E3FD /* AJTapDetectingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJTapDetectingView.m; sourceTree = "<group>"; };
+		B7F240781E654CA80096E3FD /* AJGradientView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJGradientView.h; sourceTree = "<group>"; };
+		B7F240791E654CA80096E3FD /* AJGradientView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJGradientView.m; sourceTree = "<group>"; };
+		B7F2407A1E654CA80096E3FD /* AJPhotoGroupCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoGroupCell.h; sourceTree = "<group>"; };
+		B7F2407B1E654CA80096E3FD /* AJPhotoGroupCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoGroupCell.m; sourceTree = "<group>"; };
+		B7F2407C1E654CA80096E3FD /* AJPhotoGroupView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoGroupView.h; sourceTree = "<group>"; };
+		B7F2407D1E654CA80096E3FD /* AJPhotoGroupView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoGroupView.m; sourceTree = "<group>"; };
+		B7F2407E1E654CA80096E3FD /* AJPhotoListCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoListCell.h; sourceTree = "<group>"; };
+		B7F2407F1E654CA80096E3FD /* AJPhotoListCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoListCell.m; sourceTree = "<group>"; };
+		B7F240801E654CA80096E3FD /* AJPhotoListCellTapView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoListCellTapView.h; sourceTree = "<group>"; };
+		B7F240811E654CA80096E3FD /* AJPhotoListCellTapView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoListCellTapView.m; sourceTree = "<group>"; };
+		B7F240821E654CA80096E3FD /* AJPhotoListView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoListView.h; sourceTree = "<group>"; };
+		B7F240831E654CA80096E3FD /* AJPhotoListView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoListView.m; sourceTree = "<group>"; };
+		B7F240841E654CA80096E3FD /* AJPhotoPickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoPickerViewController.h; sourceTree = "<group>"; };
+		B7F240851E654CA80096E3FD /* AJPhotoPickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoPickerViewController.m; sourceTree = "<group>"; };
+		B7F240881E654CA80096E3FD /* AJPhotoBrowserViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoBrowserViewController.h; sourceTree = "<group>"; };
+		B7F240891E654CA80096E3FD /* AJPhotoBrowserViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoBrowserViewController.m; sourceTree = "<group>"; };
+		B7F2408A1E654CA80096E3FD /* AJPhotoTapDetectingImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoTapDetectingImageView.h; sourceTree = "<group>"; };
+		B7F2408B1E654CA80096E3FD /* AJPhotoTapDetectingImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoTapDetectingImageView.m; sourceTree = "<group>"; };
+		B7F2408C1E654CA80096E3FD /* AJPhotoZoomingScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJPhotoZoomingScrollView.h; sourceTree = "<group>"; };
+		B7F2408D1E654CA80096E3FD /* AJPhotoZoomingScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJPhotoZoomingScrollView.m; sourceTree = "<group>"; };
+		B7F2408E1E654CA80096E3FD /* AJTapDetectingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJTapDetectingView.h; sourceTree = "<group>"; };
+		B7F2408F1E654CA80096E3FD /* AJTapDetectingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJTapDetectingView.m; sourceTree = "<group>"; };
+		B7F2409C1E654CD40096E3FD /* AssetsPickerVideo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AssetsPickerVideo@2x.png"; sourceTree = "<group>"; };
+		B7F2409D1E654CD40096E3FD /* BoAssetsCamera@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BoAssetsCamera@2x.png"; sourceTree = "<group>"; };
+		B7F2409E1E654CD40096E3FD /* BoAssetsPickerChecked@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BoAssetsPickerChecked@2x.png"; sourceTree = "<group>"; };
+		B7F2409F1E654CD40096E3FD /* BoSelectGroup_tip@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BoSelectGroup_tip@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,7 +142,7 @@
 		B7F240151E654A920096E3FD /* TRZXZJWPhotoPicker */ = {
 			isa = PBXGroup;
 			children = (
-				B7F240491E654AB50096E3FD /* TRZXZJWPhotoPicker */,
+				B7F240771E654CA80096E3FD /* TRZXZJWPhotoPicker */,
 				B7F240191E654A920096E3FD /* AppDelegate.h */,
 				B7F2401A1E654A920096E3FD /* AppDelegate.m */,
 				B7F2401C1E654A920096E3FD /* ViewController.h */,
@@ -176,50 +182,61 @@
 			path = TRZXZJWPhotoPickerUITests;
 			sourceTree = "<group>";
 		};
-		B7F240491E654AB50096E3FD /* TRZXZJWPhotoPicker */ = {
+		B7F240771E654CA80096E3FD /* TRZXZJWPhotoPicker */ = {
 			isa = PBXGroup;
 			children = (
-				B7F2404A1E654AB50096E3FD /* AJGradientView.h */,
-				B7F2404B1E654AB50096E3FD /* AJGradientView.m */,
-				B7F2404C1E654AB50096E3FD /* AJPhotoGroupCell.h */,
-				B7F2404D1E654AB50096E3FD /* AJPhotoGroupCell.m */,
-				B7F2404E1E654AB50096E3FD /* AJPhotoGroupView.h */,
-				B7F2404F1E654AB60096E3FD /* AJPhotoGroupView.m */,
-				B7F240501E654AB60096E3FD /* AJPhotoListCell.h */,
-				B7F240511E654AB60096E3FD /* AJPhotoListCell.m */,
-				B7F240521E654AB60096E3FD /* AJPhotoListCellTapView.h */,
-				B7F240531E654AB60096E3FD /* AJPhotoListCellTapView.m */,
-				B7F240541E654AB60096E3FD /* AJPhotoListView.h */,
-				B7F240551E654AB60096E3FD /* AJPhotoListView.m */,
-				B7F240561E654AB60096E3FD /* AJPhotoPickerViewController.h */,
-				B7F240571E654AB60096E3FD /* AJPhotoPickerViewController.m */,
-				B7F240581E654AB60096E3FD /* BoPhotoPicker.bundle */,
-				B7F240591E654AB60096E3FD /* Vendor */,
+				B7F2409B1E654CD40096E3FD /* images */,
+				B7F240781E654CA80096E3FD /* AJGradientView.h */,
+				B7F240791E654CA80096E3FD /* AJGradientView.m */,
+				B7F2407A1E654CA80096E3FD /* AJPhotoGroupCell.h */,
+				B7F2407B1E654CA80096E3FD /* AJPhotoGroupCell.m */,
+				B7F2407C1E654CA80096E3FD /* AJPhotoGroupView.h */,
+				B7F2407D1E654CA80096E3FD /* AJPhotoGroupView.m */,
+				B7F2407E1E654CA80096E3FD /* AJPhotoListCell.h */,
+				B7F2407F1E654CA80096E3FD /* AJPhotoListCell.m */,
+				B7F240801E654CA80096E3FD /* AJPhotoListCellTapView.h */,
+				B7F240811E654CA80096E3FD /* AJPhotoListCellTapView.m */,
+				B7F240821E654CA80096E3FD /* AJPhotoListView.h */,
+				B7F240831E654CA80096E3FD /* AJPhotoListView.m */,
+				B7F240841E654CA80096E3FD /* AJPhotoPickerViewController.h */,
+				B7F240851E654CA80096E3FD /* AJPhotoPickerViewController.m */,
+				B7F240861E654CA80096E3FD /* Vendor */,
 			);
 			path = TRZXZJWPhotoPicker;
 			sourceTree = "<group>";
 		};
-		B7F240591E654AB60096E3FD /* Vendor */ = {
+		B7F240861E654CA80096E3FD /* Vendor */ = {
 			isa = PBXGroup;
 			children = (
-				B7F2405A1E654AB60096E3FD /* AJPhotoBrowser */,
+				B7F240871E654CA80096E3FD /* AJPhotoBrowser */,
 			);
 			path = Vendor;
 			sourceTree = "<group>";
 		};
-		B7F2405A1E654AB60096E3FD /* AJPhotoBrowser */ = {
+		B7F240871E654CA80096E3FD /* AJPhotoBrowser */ = {
 			isa = PBXGroup;
 			children = (
-				B7F2405B1E654AB60096E3FD /* AJPhotoBrowserViewController.h */,
-				B7F2405C1E654AB60096E3FD /* AJPhotoBrowserViewController.m */,
-				B7F2405D1E654AB60096E3FD /* AJPhotoTapDetectingImageView.h */,
-				B7F2405E1E654AB60096E3FD /* AJPhotoTapDetectingImageView.m */,
-				B7F2405F1E654AB60096E3FD /* AJPhotoZoomingScrollView.h */,
-				B7F240601E654AB60096E3FD /* AJPhotoZoomingScrollView.m */,
-				B7F240611E654AB60096E3FD /* AJTapDetectingView.h */,
-				B7F240621E654AB60096E3FD /* AJTapDetectingView.m */,
+				B7F240881E654CA80096E3FD /* AJPhotoBrowserViewController.h */,
+				B7F240891E654CA80096E3FD /* AJPhotoBrowserViewController.m */,
+				B7F2408A1E654CA80096E3FD /* AJPhotoTapDetectingImageView.h */,
+				B7F2408B1E654CA80096E3FD /* AJPhotoTapDetectingImageView.m */,
+				B7F2408C1E654CA80096E3FD /* AJPhotoZoomingScrollView.h */,
+				B7F2408D1E654CA80096E3FD /* AJPhotoZoomingScrollView.m */,
+				B7F2408E1E654CA80096E3FD /* AJTapDetectingView.h */,
+				B7F2408F1E654CA80096E3FD /* AJTapDetectingView.m */,
 			);
 			path = AJPhotoBrowser;
+			sourceTree = "<group>";
+		};
+		B7F2409B1E654CD40096E3FD /* images */ = {
+			isa = PBXGroup;
+			children = (
+				B7F2409C1E654CD40096E3FD /* AssetsPickerVideo@2x.png */,
+				B7F2409D1E654CD40096E3FD /* BoAssetsCamera@2x.png */,
+				B7F2409E1E654CD40096E3FD /* BoAssetsPickerChecked@2x.png */,
+				B7F2409F1E654CD40096E3FD /* BoSelectGroup_tip@2x.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -328,8 +345,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B7F240A21E654CD40096E3FD /* BoAssetsPickerChecked@2x.png in Resources */,
+				B7F240A11E654CD40096E3FD /* BoAssetsCamera@2x.png in Resources */,
 				B7F240261E654A920096E3FD /* LaunchScreen.storyboard in Resources */,
-				B7F2406A1E654AB60096E3FD /* BoPhotoPicker.bundle in Resources */,
+				B7F240A31E654CD40096E3FD /* BoSelectGroup_tip@2x.png in Resources */,
+				B7F240A01E654CD40096E3FD /* AssetsPickerVideo@2x.png in Resources */,
 				B7F240231E654A920096E3FD /* Assets.xcassets in Resources */,
 				B7F240211E654A920096E3FD /* Main.storyboard in Resources */,
 			);
@@ -357,19 +377,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				B7F2401E1E654A920096E3FD /* ViewController.m in Sources */,
-				B7F2406E1E654AB60096E3FD /* AJTapDetectingView.m in Sources */,
-				B7F240681E654AB60096E3FD /* AJPhotoListView.m in Sources */,
+				B7F2409A1E654CA80096E3FD /* AJTapDetectingView.m in Sources */,
+				B7F240951E654CA80096E3FD /* AJPhotoListView.m in Sources */,
 				B7F2401B1E654A920096E3FD /* AppDelegate.m in Sources */,
-				B7F240661E654AB60096E3FD /* AJPhotoListCell.m in Sources */,
-				B7F2406C1E654AB60096E3FD /* AJPhotoTapDetectingImageView.m in Sources */,
-				B7F240651E654AB60096E3FD /* AJPhotoGroupView.m in Sources */,
-				B7F240671E654AB60096E3FD /* AJPhotoListCellTapView.m in Sources */,
-				B7F240691E654AB60096E3FD /* AJPhotoPickerViewController.m in Sources */,
-				B7F2406B1E654AB60096E3FD /* AJPhotoBrowserViewController.m in Sources */,
+				B7F240931E654CA80096E3FD /* AJPhotoListCell.m in Sources */,
+				B7F240981E654CA80096E3FD /* AJPhotoTapDetectingImageView.m in Sources */,
+				B7F240921E654CA80096E3FD /* AJPhotoGroupView.m in Sources */,
+				B7F240941E654CA80096E3FD /* AJPhotoListCellTapView.m in Sources */,
+				B7F240961E654CA80096E3FD /* AJPhotoPickerViewController.m in Sources */,
+				B7F240971E654CA80096E3FD /* AJPhotoBrowserViewController.m in Sources */,
 				B7F240181E654A920096E3FD /* main.m in Sources */,
-				B7F240631E654AB60096E3FD /* AJGradientView.m in Sources */,
-				B7F240641E654AB60096E3FD /* AJPhotoGroupCell.m in Sources */,
-				B7F2406D1E654AB60096E3FD /* AJPhotoZoomingScrollView.m in Sources */,
+				B7F240901E654CA80096E3FD /* AJGradientView.m in Sources */,
+				B7F240911E654CA80096E3FD /* AJPhotoGroupCell.m in Sources */,
+				B7F240991E654CA80096E3FD /* AJPhotoZoomingScrollView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
