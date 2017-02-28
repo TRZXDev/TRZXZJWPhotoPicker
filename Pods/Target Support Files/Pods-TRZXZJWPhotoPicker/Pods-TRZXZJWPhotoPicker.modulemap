@@ -1,0 +1,6 @@
+framework module Pods_TRZXZJWPhotoPicker {
+  umbrella header "Pods-TRZXZJWPhotoPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
