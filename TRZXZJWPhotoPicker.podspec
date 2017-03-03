@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "TRZXZJWPhotoPicker"
-    s.version      = "0.0.1"
+    s.version      = "0.0.3"
     s.ios.deployment_target = '8.0'
     s.summary      = "TRZXZJWPhotoPicker"
     s.homepage     = "https://github.com/TRZXDev/TRZXZJWPhotoPicker"
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
     s.source_files  = "TRZXZJWPhotoPicker/TRZXZJWPhotoPicker/**/*.{h,m}"
     s.resources    = 'TRZXZJWPhotoPicker/TRZXZJWPhotoPicker/**/*.{xib,png}'
 
-    s.dependency "FXBlurView"
+  #  s.dependency "FXBlurView"
     s.dependency "SDWebImage"
 
     s.requires_arc = true

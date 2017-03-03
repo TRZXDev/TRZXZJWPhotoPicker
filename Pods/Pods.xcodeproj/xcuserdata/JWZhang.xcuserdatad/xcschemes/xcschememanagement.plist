@@ -4,11 +4,6 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>FXBlurView.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Pods-TRZXZJWPhotoPicker.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -22,17 +17,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>5AFE12B010A5F4D10290E63E7E8264F5</key>
+		<key>24C628E1274D341C2DF084A65295EADC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B468C4659AF0D311B90C506F03867461</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>BD5BFC2F630B07DE8A20EBC90A7C8D49</key>
+		<key>2B226F437BEFABD73F3420A0D3B41E6F</key>
 		<dict>
 			<key>primary</key>
 			<true/>

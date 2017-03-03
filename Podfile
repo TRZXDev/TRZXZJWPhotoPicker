@@ -8,7 +8,7 @@ use_frameworks!
 def pods
 
     pod 'SDWebImage'
-    pod 'FXBlurView'
+   # pod 'FXBlurView'
   #  pod 'AJPhotoPicker'
 
 
